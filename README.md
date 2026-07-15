@@ -1,2 +1,28 @@
-# 78db2185-nonprofit-fundraising-inventor
-spending hours building a system before you can actually use it costs you real money. This Notion template pays for itself in one use.  Fully documented: every section explained so you know exactly what to customize. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Nonprofit Fundraising Inventory A
+# Nonprofit Fundraising Inventory and Asset Management Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/28EfZh8v51g009abzScZM0M)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28EfZh8v51g009abzScZM0M)
+
